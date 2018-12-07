@@ -148,6 +148,9 @@
   <ItemGroup>
     <ClCompile Include="hellomessagebox.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="hellodemo.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
